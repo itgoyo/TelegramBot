@@ -8,9 +8,10 @@
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_2114110836)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| 极搜群组机器人      | [@jisou](https://t.me/jisou?start=a_2114110836)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| i快搜机器人      | [@ikuaisobot](https://t.me/ikuaisobot?start=2114110836)  | 搜索机器人，然后BOT提供关键词相关群组的机器人|
+| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_7202424896)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 极搜群组机器人      | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 极搜群组机器人      | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| i快搜机器人      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)  | 搜索机器人，然后BOT提供关键词相关群组的机器人|
 | TGX-频道秘书      | [@zh_secretary_bot](https://t.me/zh_secretary_bot)       | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
 | 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)        | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
 | 群组索引计划      | [@zh_groups_bot](https://t.me/zh_groups_bot)       | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
