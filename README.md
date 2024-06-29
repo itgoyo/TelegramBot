@@ -9,7 +9,7 @@
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | SOSO群组机器人      | [@soso](https://t.me/sosoo?start=a_7202424896)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| 极搜群组机器人      | [@jisou](https://t.me/jisou123bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 极搜群组机器人      | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | 极搜群组机器人      | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | i快搜机器人      | [@ikuaisobot](https://t.me/ikuaisobot?start=7202424896)  | 搜索机器人，然后BOT提供关键词相关群组的机器人|
 | TGX-频道秘书      | [@zh_secretary_bot](https://t.me/zh_secretary_bot)       | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
