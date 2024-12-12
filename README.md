@@ -1,3 +1,10 @@
+| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![@同城约炮](https://i.imgur.com/hFz9t0f.png)<br>玩偶姐姐](https://t.me/+gAPPGaiYm1FlNTlh)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820) |
+|:---:|:---:|:---:|
+|[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://tgdh.github.io/) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715)|
+| [![搜片神器](https://i.imgur.com/SVox0Se.png)<br>搜片神器](https://t.me/soupianshenqibar)  |  [![色色搜索](https://i.imgur.com/pwNAjvK.png)<br>❤️色色搜索🔞](https://t.me/sesesearchbar) | [![暗网搜索](https://i.imgur.com/woGNZUA.png)<br>暗网搜索](https://t.me/anwangsousuobar)|
+| [![彩虹群发破解版](https://i.imgur.com/1CsNGPN.jpeg)<br>电报稀缺资源大全中文搜索](https://t.me/sousou20w)| [![中文搜索](https://i.imgur.com/OWV7rdZ.png)<br>soso20万人群](https://t.me/sousou20w) |[![机场导航](https://i.imgur.com/yhw5VPW.png)<br>机场导航大全](https://jichangvpn.github.io/)|
+
+
 *   Telegram 🔥频道导航|群组导航🔥:[https://t.me/tgpddh](https://t.me/tgpddh)
 *   Telegram 修女搬运频道:[https://t.me/xiunvbanyun](https://t.me/xiunvbanyun)【💰自动搬运别的频道视频和内容，涨粉神器💰】
 *   🔞玩偶姐姐❤️：[https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+gAPPGaiYm1FlNTlh)
@@ -5,7 +12,6 @@
 *   🔞女神聚集地❤️：[https://t.me/+fnN-ekSxyzNlYTY1](https://t.me/+fnN-ekSxyzNlYTY1)
 *   🔞大学生专区❤️：[https://t.me/+TERGPTtc7lFhN2I5](https://t.me/+TERGPTtc7lFhN2I5)
 *   🔞不良少女❤️：[https://t.me/+JSktL905RudlZmVl](https://t.me/+JSktL905RudlZmVl)
-
 ### 常用机器人
 
 | 名字     | 链接 | 功能描述     |
@@ -16,9 +22,9 @@
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| SOSO群组机器人      | [@soso](https://t.me/sosoo?start=a_6294881820)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| 极搜群组机器人      | [@jisou](https://t.me/jisou2bot?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| 极搜群组机器人      | [@jiso](https://t.me/jiso?start=a_6294881820)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| SOSO群组机器人      | [@soso](https://t.me/sosoo?start=a_7202424896)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 极搜群组机器人      | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 极搜群组机器人      | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | 华夏搜索机器人      | [@huaxia123_bot](https://t.me/huaxia123_bot?start=pRtPVwfpWEBFGb0hVYqZDphA3pWYZSNP)  | TG必备神器，找到您感兴趣的群组、频道和机器人！  |
 | i快搜机器人      | [@ikuaisobot](https://t.me/ikuaisobot?start=6294881820)  | 搜索机器人，然后BOT提供关键词相关群组的机器人|
 | TGX-频道秘书      | [@zh_secretary_bot](https://t.me/zh_secretary_bot)       | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
