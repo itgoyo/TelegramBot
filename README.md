@@ -10,7 +10,7 @@
 *   🔞玩偶姐姐❤️：[https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+gAPPGaiYm1FlNTlh)
 *   🔞推特|女菩萨❤️：[https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl)
 *   🔞女神聚集地❤️：[https://t.me/+fnN-ekSxyzNlYTY1](https://t.me/+fnN-ekSxyzNlYTY1)
-*   🔞大学生专区❤️：[https://t.me/+TERGPTtc7lFhN2I5](https://t.me/+TERGPTtc7lFhN2I5)
+*   🔞大学生专区❤️：[https://t.me/+xys36k-y9Rk2OTQx](https://t.me/+xys36k-y9Rk2OTQx)
 *   🔞不良少女❤️：[https://t.me/+JSktL905RudlZmVl](https://t.me/+JSktL905RudlZmVl)
 ### 常用机器人
 
