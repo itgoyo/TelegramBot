@@ -5,8 +5,6 @@
 *   Telegram 🔥频道导航|群组导航🔥:[https://github.com/itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup)
 *   Telegram 修女搬运频道:[https://t.me/xiunvbanyun](https://t.me/xiunvbanyun)【💰自动搬运别的频道视频和内容，涨粉神器💰】
 
-| 修女TRX闪兑能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX,会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务         |
-
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
