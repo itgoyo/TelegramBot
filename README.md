@@ -26,6 +26,7 @@
 #### 看剧资源搜索机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
+| 番号搜索机器人   | [@fanhaosearchbot](https://t.me/fanhaosearchbot)            | 输入番号或者作者名字即可找到对应的资源下载地址  |
 | 阿里云盘搜索机器人      | [@aliyunshare_bot](https://t.me/aliyunshare_bot)     | 我是阿里云盘资源搜索机器人 汇聚全网最全资源  |
 | 阿里云盘搜索机器人      | [@AliYunPanBot](https://t.me/AliYunPanBot)     | 集投稿、搜索、收藏、关注、分享和导出于一身，做 Telegram 上更全能的阿里云盘资源机器人  |
 | 一起搜电影      | [@sotv](https://t.me/sotv)  |TG必备影视搜索神器，找到您喜欢的电影、电视剧！欢迎将 @SOTV 添加到您的群组  |
