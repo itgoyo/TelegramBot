@@ -1,9 +1,10 @@
-![telegram-cloud-photo-size-4-5998925666256537463-y](https://github.com/user-attachments/assets/edb8425f-ddc1-4f70-800f-4a7670eaaadd)| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/XTKEnhQ.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820) |
+| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/XTKEnhQ.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820) |
 |:---:|:---:|:---:|
 |[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://tgdh.github.io/) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715)|
 
 *   Telegram 🔥频道导航|群组导航🔥:[https://github.com/itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup)
 *   Telegram 修女搬运频道:[https://t.me/xiunvbanyun](https://t.me/xiunvbanyun)【💰自动搬运别的频道视频和内容，涨粉神器💰】
+*   🔥修女能量租赁机器人🔥：[@trxxnbot](https://t.me/trxxnbot)【买能量，租能量，兑换TRX,会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务】
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
