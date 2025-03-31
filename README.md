@@ -2,9 +2,10 @@
 |:---:|:---:|:---:|
 |[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://tgdh.github.io/) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715)|
 
+
 *   Telegram 🔥频道导航|群组导航🔥:[https://github.com/itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup)
 *   Telegram 修女搬运频道:[https://t.me/xiunvbanyun](https://t.me/xiunvbanyun)【💰自动搬运别的频道视频和内容，涨粉神器💰】
-*   🔥修女能量租赁机器人🔥：[@trxxnbot](https://t.me/trxxnbot)【买能量，租能量，兑换TRX,会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务】
+*   🔥全网最便宜TRX闪兑能量租赁🔥：[@trxxnbot](https://t.me/trxxnbot)【买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务。通知群:[@xiunvtrx](https://t.me/xiunvtrx)   】
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
