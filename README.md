@@ -26,6 +26,7 @@
 | 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 番号搜索机器人   | [@fanhaosearchbot](https://t.me/fanhaosearchbot)            | 输入番号或者作者名字即可找到对应的资源下载地址  |
 | 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
+|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
@@ -34,9 +35,6 @@
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 | 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
-| 同城速约 | [https://t.me/+m-ZUpzp5OsQ2MTg1](https://t.me/+m-ZUpzp5OsQ2MTg1)|  骗子(Scammer)    |
-| x瘾集中营 | [https://t.me/+f3HV64OS8ykxMjNk](https://t.me/+f3HV64OS8ykxMjNk)|  骗子(Scammer)    |
-| 每日直播 |[https://t.me/+rtNpNWn3ePpkN2Rl](https://t.me/+rtNpNWn3ePpkN2Rl)|  骗子(Scammer)    |
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
