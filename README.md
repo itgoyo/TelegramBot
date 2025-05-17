@@ -11,9 +11,9 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_6294881820)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| SOSO机器人  | [@soso](https://t.me/soso?start=a_6294881820)                     | 发送词语发送关键词来寻找群组、频道或视频           |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_6294881820)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7704234080)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| SOSO机器人  | [@soso](https://t.me/soso?start=a_7704234080)                     | 发送词语发送关键词来寻找群组、频道或视频           |
+| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7704234080)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
@@ -26,21 +26,21 @@
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 👉协议号/直登号/广告号/tdata | [@tdataman](https://t.me/tdataman)            | 🇲🇲缅甸卖家 +95账号0.35u/个，50个起售,全网最低价  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
-| 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
+| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| ❤️色色搜索   | [@sese20w](https://t.me/sese20w)            | 可以在里面搜索你想要的一切   |
+| ❤️色色搜索   | [@daohangsese](https://t.me/daohangsese)            | 可以在里面搜索你想要的一切   |
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
 | 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_nLMZjZyv)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 | 🍉 色瓜中心 | [https://t.me/seguazhongxin](https://t.me/seguazhongxin) | 分享全网第一个热瓜      |
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+o_pZ4NuhsOAwY2Zl](https://t.me/+o_pZ4NuhsOAwY2Zl)|  骗子(Scammer)    |
+| 微信同城交友 | [https://t.me/+2JCEjsnj0J82NzQ1](https://t.me/+2JCEjsnj0J82NzQ1) |  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+BbMDCKib6_VhODE1](https://t.me/+BbMDCKib6_VhODE1)|  骗子(Scammer)    |
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
