@@ -130,7 +130,7 @@
 #### 其他有趣机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=MC7UXNX2POPFCUJY)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 创建临时邮箱机器人   | [@DropmailBot](https://t.me/DropmailBot)        | 临时邮箱顾名思义是个临时的匿名邮箱，可以用来保护个人隐私和防止垃圾邮件      |
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
 | Chatbot      | [@strangybot](https://t.me/strangybot)       | A chatbot that you can talk to.  |
