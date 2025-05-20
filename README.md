@@ -26,6 +26,7 @@
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
 | 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 免费破解私密群组消息无法下载转发机器人  | [@xnpojiemsgbot](http://t.me/xnpojiemsgbot)       | 破解私密群组消息无法下载转发机器人，直接粘贴想要的帖子地址皆可实现下载转发功能|
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 |免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
 | 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
