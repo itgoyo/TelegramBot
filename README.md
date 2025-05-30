@@ -21,15 +21,11 @@
 | 搜索sousuo       | [@sousuo](https://t.me/+skAMUotNfilmM2Y1)                | 查找群组、频道、影视、音乐或机器人         |
 | 🔥能量租赁🔥   | [@trxnbot](https://t.me/trxnbot)                  | 买能量、租能量、兑换TRX、telegram电报会员(3月/17U、6月/22U、12月/36U)、地址监听、实时U价、ID查询等功能多功能机器人。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259 ，频道：[@tg2vip](https://t.me/tg2vip)  |
-| 🎨电报第一P图大师   | [@p8826](https://t.me/p8826)                  |  专业PS P图/头像/会员文字，大厂设计师服务包满意      |
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
-| 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点[@yongjiuvpnbuybot](https://t.me/yongjiuvpnbuybot)  |
-| 🌈彩虹群发器   | [@caihongautobot](https://t.me/caihongautobot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
-| 免费破解私密群组消息无法下载转发机器人  | [@xnpojiemsgbot](http://t.me/xnpojiemsgbot)       | 破解私密群组消息无法下载转发机器人，直接粘贴想要的帖子地址皆可实现下载转发功能|
-| 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| Telegram中文讨论群   | [tgcn20w](https://t.me/tgcn20w)                       | 打造一个能一起讨论的中文社区群 |
-|免费短信轰炸机器人                             | [@jdHappybot](https://t.me/jdHappybot?start=6751835704)          |免费的短信轰炸，每天签到就能免费轰炸。反诈、搞人利器   |
+| 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点 |
+| 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
+| 免费频道搬运机器人   | 免费机器人[@xnby003bot](https://t.me/xnby003bot)           | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建同款机器人[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
@@ -38,7 +34,7 @@
 | ❤️色色搜索   | [@daohangsese](https://t.me/daohangsese)            | 可以在里面搜索你想要的一切   |
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
 | 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
-| GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_nLMZjZyv)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
+| GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
 | 🍉 色瓜中心 | [https://t.me/seguazhongxin](https://t.me/seguazhongxin) | 分享全网第一个热瓜      |
 | 微信同城交友 | [https://t.me/+2JCEjsnj0J82NzQ1](https://t.me/+2JCEjsnj0J82NzQ1) |  骗子(Scammer)    |
