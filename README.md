@@ -5,7 +5,7 @@
 
 | [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/XTKEnhQ.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820) |
 |:---:|:---:|:---:|
-|[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://tgdh.github.io/) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/kuaisou1_bot?start=a_7202424896)|
+|[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_7352210715) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://tgdh.github.io/) |[![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/kuaisou1_bot?start=a_7202424896)|
 
 ### 搜索机器人
 
@@ -13,7 +13,7 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7352210715)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
