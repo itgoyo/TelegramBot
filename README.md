@@ -14,7 +14,7 @@
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259 ，频道：[@tg2vip](https://t.me/tg2vip)  |
