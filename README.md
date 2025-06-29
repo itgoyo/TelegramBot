@@ -32,8 +32,7 @@
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
 | 币圈导航   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
-| 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
-| 🍉 色瓜中心 | [https://t.me/seguazhongxin](https://t.me/seguazhongxin) | 分享全网第一个热瓜      |
+| 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 分享全网第一个热瓜      |
 | 微信同城交友 | [https://t.me/+Xgugccn0PrI0NGJl](https://t.me/+Xgugccn0PrI0NGJl)|  骗子(Scammer)    |
 | 反差 | [https://t.me/+hyXPRD0-CwYwY2I0](https://t.me/+hyXPRD0-CwYwY2I0)|  骗子(Scammer)    |
 | 天天约 | [https://t.me/+YB6lqGAnRJNkYjIy](https://t.me/+YB6lqGAnRJNkYjIy)|  骗子(Scammer)    |
