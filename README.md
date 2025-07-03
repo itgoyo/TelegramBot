@@ -33,9 +33,16 @@
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 分享全网第一个热瓜      |
+
+### 曝光不良频道(Scammer) 
+| 名字       | 链接                                                                 | 功能描述                                   |
+| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+|景福宫高端商务|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+Xgugccn0PrI0NGJl](https://t.me/+Xgugccn0PrI0NGJl)|  骗子(Scammer)    |
 | 反差 | [https://t.me/+hyXPRD0-CwYwY2I0](https://t.me/+hyXPRD0-CwYwY2I0)|  骗子(Scammer)    |
 | 天天约 | [https://t.me/+YB6lqGAnRJNkYjIy](https://t.me/+YB6lqGAnRJNkYjIy)|  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+PvYZiMxp-vk0NDE0](https://t.me/+PvYZiMxp-vk0NDE0)|  骗子(Scammer)    |
+| 美女集中营 | [https://t.me/+PjlyVaJbLSlkNTI0](https://t.me/+PjlyVaJbLSlkNTI0)|  骗子(Scammer)    |
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
