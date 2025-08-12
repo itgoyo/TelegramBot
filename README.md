@@ -25,6 +25,7 @@
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 免费频道搬运机器人   | 免费机器人[@xnby003bot](https://t.me/xnby003bot)           | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建同款机器人[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| 超级索引官方搜索群   | [@wanneng1](https://t.me/wanneng1)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
 | 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
