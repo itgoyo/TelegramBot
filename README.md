@@ -33,6 +33,7 @@
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
 | ❤️色色搜索   | [@daohangsese](https://t.me/daohangsese)            | 可以在里面搜索你想要的一切   |
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
+|Debot|[@Debot](https://debot.ai?ref=240523)|实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 分享全网第一个热瓜      |
 
