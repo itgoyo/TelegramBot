@@ -57,6 +57,68 @@
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 
+### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@tgxiunv](https://t.me/tgxiunv)
+
+官网申请API: https://my.telegram.org/auth?to=apps
+
+| Field         | Value                                    |
+|---------------|------------------------------------------|
+| App api_id    | 23862859                                 |
+| App api_hash  | 9fc6cfff12d0763xxx1125ddb46602a          |
+| App title     | zhuanfabotsxxx                              |
+| Short name    | zhuanfabotsxxx                              |
+
+>免费可用的api key、api hash
+```
+nagram:
+api-id: 11535358
+api-hash: 33d372962fadb01df47e6ceed4e33cd6
+
+telegram-android:
+api-id: 4
+api-hash: 014b35b6184100b085b0d0572f9b5103
+
+telegram-desktop:
+api-id: 2040
+api-hash: b18441a1ff607e10a989891a5462e627
+
+telegram-swift:
+api-id: 10840
+api-hash: 33c45224029d59cb3ad0c16134215aeb
+
+telegram-messenger-plus:
+api-id: 16623
+api-hash: 8c9dbfe58437d1739540f5d53c72ae4b
+
+telegram-x:
+api-id: 21724
+api-hash: 3e0cb5efcd52300aec5994fdfc5bdc16
+
+telegram-web-k:
+api-id: 1025907
+api-hash: 452b0359b988148995f22ff0f4229750
+
+telegram-web:
+api-id: 2496
+api-hash: 8da85b0d5bfe62527e5b244c209159c3
+
+PublicStaticFinal:
+api-id: 5
+api-hash: 1c5c96d5edd401b1ed40db3fb5633e2d
+
+Distributed-Android:
+api-id: 6
+api-hash: eb06d4abfb49dc3eeb1aeb98ae0f581e
+
+Public-iOS-Beta:
+api-id: 8
+api-hash: 7245de8e747a0d6fbe11f7cc14fcc0bb
+
+Nicegram:
+api-id: 94575
+api-hash: a3406de8d171bb422bb6ddf3bbd800e2
+```
+
 #### 看剧资源搜索机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
