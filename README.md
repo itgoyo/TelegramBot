@@ -58,7 +58,7 @@
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 
-### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@tgxiunv](https://t.me/tgxiunv)
+### Telegram API申请(申请不了的话，实测可以换[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)，日本的东京-6可申请成功) 
 
 官网申请API: https://my.telegram.org/auth?to=apps
 
