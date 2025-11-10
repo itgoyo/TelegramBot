@@ -11,7 +11,6 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|Comet| [@Comet](https://pplx.ai/itgoyo31345)| 1.点击链接注册。2.下载并打开 Comet 浏览器，随便对话2-3次（自动激活Pro）。3.在 Comet 里生成你的专属邀请链接，开始拉新10$/人。|
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | SOSO机器人  | [@soso](https://t.me/sosoo?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源，老牌搜索机器人超级索引邀请好友，参与五级拉新裂变赢USDT！新人使用直接领取1.88U！！(完成1次有效搜索) 👉[官方搜索群](https://t.me/+kt8DCh74ZmA0ZTc9)，搜索不留任何痕迹，放心搜索       |
@@ -26,7 +25,7 @@
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 免费频道搬运机器人   | 免费机器人[@xnby003bot](https://t.me/xnby003bot)           | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建同款机器人[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | 👚AI去衣机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| **📱 全网最全低价流量卡** | [172手机流量卡代理](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务 |
+| **📱 全网最全低价流量卡** | [172手机流量卡代理](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 | 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
 | 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
