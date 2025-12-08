@@ -13,7 +13,7 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | SOSO机器人  | [@soso](https://t.me/sosoo?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
