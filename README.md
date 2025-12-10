@@ -11,12 +11,12 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| **极搜 JiSo** | [@jiso](https://t.me/jiso?start=a_7202424896) | 输入关键词搜索群、频道、视频等资源，输入『凡人修仙传』试试 |
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源         |
-| **极搜 JiSo** | [@jiso](https://t.me/jiso?start=a_7202424896) | 输入关键词搜索群、频道、视频等资源，输入『凡人修仙传』试试 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | 虚拟货币投资学习   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://accounts.binance.com/zh-CN/register?ref=896983517)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259  |
