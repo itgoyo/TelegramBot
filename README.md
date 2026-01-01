@@ -3,7 +3,7 @@
  <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://tg10000.com">tg10000.com</a>  <a>商务合作:</a> <a href="mailto:tglumao@gmail.com">@tglumao@gmail.com</a><br>
 </div>
 
-| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/soso?start=a_6294881820) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/XTKEnhQ.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820) |
+| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/soso?start=a_6294881820) | [![全网最低价代开电报会员/Telegram 会员代开三个月/ 半年/ 一年/代开会员/电报会员/代充会员/电报会员/Telegram会员代开/Telegram代开会员](https://i.imgur.com/XTKEnhQ.png)<br>全网最低价代开电报会员](http://shop.tg10000.com)  | [![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/CJSY?start=7202424896) |
 |:---:|:---:|:---:|
 |[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_7352210715) |  [![@频道导航](https://i.imgur.com/31YFV0f.png)<br>@频道导航](https://telegramnav.github.io/) |[![超级索引](https://i.imgur.com/CsCtOBH.png)<br>@超级索引](https://t.me/CJSY?start=7202424896)|
 
@@ -12,7 +12,6 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| **极搜 JiSo** | [@jiso](https://t.me/jiso?start=a_7202424896) | 输入关键词搜索群、频道、视频等资源，输入『凡人修仙传』试试 |
 | SOSO机器人  | [@soso](https://t.me/soso?start=a_7202424896)                     | 发送词语发送关键词来寻找群组、频道或视频           |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
