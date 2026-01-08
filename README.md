@@ -23,9 +23,8 @@
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点 |
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | 免费机器人[@xnby003bot](https://t.me/xnby003bot)           | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建同款机器人[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 免费频道搬运机器人   | 免费机器人[@xnby08bot](https://t.me/xnby08bot)           | 免费机器人[@xnby003bot](https://t.me/xnby08bot) 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
-| 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
 | 搜索群①   | [@sousuohp](https://t.me/sousuohp)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
@@ -35,23 +34,9 @@
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
 |Debot|[@Debot](https://debot.ai?ref=240523)|实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 |
 | GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
+|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 分享全网第一个热瓜      |
 
-### 曝光不良频道(Scammer) 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
-| 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
-| 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+cK8sJ83ib1M2M2Zi](https://t.me/+cK8sJ83ib1M2M2Zi)|  骗子(Scammer)    |
-| 美女集中营 | [https://t.me/+qtnO1Cqjcjo5ZTU0](https://t.me/+qtnO1Cqjcjo5ZTU0)|  骗子(Scammer)    |
-| 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
-| 每日大赛 | [https://t.me/+0ns42wc9C8g2MmY0](https://t.me/+0ns42wc9C8g2MmY0)|  骗子(Scammer)    |
-| 女大学生 | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0)|  骗子(Scammer)    |
-| 培训基地 | [https://t.me/+JV_e00siA6A5NzE0](https://t.me/+JV_e00siA6A5NzE0)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+LpD7-7rV3LxjZWRk](https://t.me/+LpD7-7rV3LxjZWRk)|  骗子(Scammer)    |
-| 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
