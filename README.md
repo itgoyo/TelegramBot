@@ -21,7 +21,7 @@
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | 虚拟货币投资学习   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://accounts.binance.com/zh-CN/register?ref=896983517)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
 | 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259  |
-| ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)  |
+| ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            |  电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)  |
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点 |
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
@@ -132,7 +132,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 #### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
+| 按钮机器人      | [@xiunvanniu1bot](https://t.me/@xiunvanniu1bot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
 | 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
 | 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
 | 群拦截付费进群机器人      | [@feeMasterBot](https://t.me/feeMasterBot)       | 群拦截付费进群机器人,防止水军炸群|
