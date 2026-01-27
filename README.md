@@ -195,7 +195,9 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 |  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=78YG7UDWXPT1JGI2)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xiunvanniu1bot](https://t.me/xiunvanniu1bot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |  自动给帖子加上按钮广告   |
 | 创建临时邮箱机器人   | [@DropmailBot](https://t.me/DropmailBot)        | 临时邮箱顾名思义是个临时的匿名邮箱，可以用来保护个人隐私和防止垃圾邮件      |
+|VmomoVBot音乐机器人|[@VmomoVBot](https://t.me/VmomoVBot)|音乐搜索|
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
 | Chatbot      | [@strangybot](https://t.me/strangybot)       | A chatbot that you can talk to.  |
 | Quiz bot   | [@QuizBot](https://t.me/QuizBot)        | Create and take quizzes.      |
