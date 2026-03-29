@@ -325,7 +325,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | Buttoncreatingbot | [@Buttoncreatingbot](https://t.me/Buttoncreatingbot) | 频道按钮与 Banner 生成。 |
 | Qualitymovbot | [@Qualitymovbot](https://t.me/Qualitymovbot) | 频道帖子按钮制作。 |
 | TG_PostBot | [@TG_PostBot](https://t.me/TG_PostBot) | 快捷创建格式化帖子。 |
-| xiunvanniu1bot | [@xiunvanniu1bot](https://t.me/xiunvanniu1bot) | 自动按钮广告机器人。 |
+| @xiunvanniu_bot | [@xiunvanniu_bot](https://t.me/xiunvanniu_bot) | 自动按钮广告机器人。 |
 | multiple_pin_bot | [@multiple_pin_bot](https://t.me/multiple_pin_bot) | 支持多条置顶。 |
 | delall_bot | [@delall_bot](https://t.me/delall_bot) | 批量删除频道或群组消息。 |
 | ChannelBroBot | [@ChannelBroBot](https://t.me/ChannelBroBot) | 频道辅助入口。 |
