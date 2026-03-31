@@ -123,6 +123,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
+|多平台解析下载机器人|[@freedlvideo_bot](https://t.me/freedlvideo_bot)|支持Twitter / X、Instagram、YouTube、Facebook、Threads、Bilibili、抖音 / TikTok、微博、小红书、贴吧、微信公众号、快手、酷安、皮皮虾、最右、小黑盒|
 | 阿里云盘搜索机器人 | [@aliyunshare_bot](https://t.me/aliyunshare_bot) | 汇聚全网阿里云盘资源。 |
 | 阿里云盘搜索机器人 | [@AliYunPanBot](https://t.me/AliYunPanBot) | 支持投稿、搜索、收藏、关注、分享和导出。 |
 | 一起搜电影 | [@sotv](https://t.me/sotv) | 影视搜索与群组内快捷找片。 |
