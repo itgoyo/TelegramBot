@@ -430,6 +430,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
 | okpay | [@okpay](https://t.me/okpay) | 加密货币钱包与支付。 |
+| 匿名信用卡       |   [@匿名信用卡]([https://t.me/wallet](https://t.me/kkpay?start=creditCardInvite--7202424896))  |无需实名, 可绑定支付宝, 海外购物🛍️, 开通 ChatGPT/Claude 等AI!|
 | kkpay | [@kkpay](https://t.me/kkpay) | 中文市场加密钱包。 |
 | UTBOT | [@UTBOT](https://t.me/UTBOT) | 匿名加密资产存储与兑换。 |
 | pikabaobot | [@pikabaobot](https://t.me/pikabaobot) | 支付与充值服务。 |
