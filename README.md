@@ -40,7 +40,7 @@
 |  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时同步全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
-|**东南亚大事件曝光** |[@bx555c](t.me/bx555c)  [@bx11c](t.me/bx11c)|从西港一线，到全区域突发,从华人圈内幕，到全网热搜同步|
+|**东南亚大事件曝光** |[@bx555c](https://t.me/bx555c)  [@bx11c](https://t.me/bx11c)|从西港一线，到全区域突发,从华人圈内幕，到全网热搜同步|
 | **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot)|
 | 群组频道上粉丝人数 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
