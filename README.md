@@ -10,6 +10,7 @@
 |Ai搜索@AISS                             | [@AISS](https://t.me/AISS)          | 帮你快速定位网页、文档、应用内资源，一键获取所需信息  |
 | **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| **新币搜索** | [@xbso](https://t.me/xbso?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源    |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
