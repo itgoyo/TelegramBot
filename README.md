@@ -38,8 +38,6 @@
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
 | 电报搜索群   | [@daohangsese](https://t.me/daohangsese)            | 可以在里面搜索你想要的一切   |
 | 🎥搜片神器   | [@soupian20w](https://t.me/soupian20w)            | 发送视频名字即可找到你想要看的片子  |
-|Debot|[@Debot](https://debot.ai?ref=240523)|实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 |
-| GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 |  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时同步全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
@@ -48,7 +46,9 @@
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物[@haowufenxiangbot](https://t.me/haowufenxiangbot)|
 | 群组频道上粉丝人数 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
-| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
+| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
+|Debot|[@Debot](https://debot.ai?ref=240523)|实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 |
+| GMGN抓金狗百倍币   | [@gmgnaibot](https://t.me/gmgnaibot?start=i_L2wVVjGF)         | 💰GMGN 是加密货币领域最强大的数据分析平台  |
 
 
 | 名字     | 链接 | 功能描述     |
