@@ -159,6 +159,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | Youtube MP3 | [@u2bu_mp3_bot](https://t.me/u2bu_mp3_bot) | YouTube 转音频。 |
 | What Anime | [@WhatAnimeBot](https://t.me/WhatAnimeBot) | 截图识别番剧。 |
 | VmomoVBot | [@VmomoVBot](https://t.me/VmomoVBot) | 音乐搜索。 |
+| Cyber Collector | [@cybercollectorbot](https://t.me/cybercollectorbot) | 免费下载 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
 
 ### 抽奖与活动
 
