@@ -458,6 +458,7 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
 | 淘宝好物分享机器人     | [@haowufenxiangbot](https://t.me/haowufenxiangbot)       | 每日更新天猫淘宝大平台漏洞价,更有海量优惠券,品牌优选,找券查优惠功能齐全 |
+|  libot  | [@libot](https://telegram.me/libot?start=6294881820)       | 游戏娱乐平台|
 | Coolestbot | [@Coolestbot](https://t.me/Coolestbot) | 通用联系入口。 |
 | YuanEnBot | [@YuanEnBot](https://t.me/YuanEnBot) | 占位型机器人入口。 |
 | Tornadoiii_bot | [@Tornadoiii_bot](https://t.me/Tornadoiii_bot) | 陪伴型机器人。 |
