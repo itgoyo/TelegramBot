@@ -8,11 +8,11 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，投放广告，享受5%的充值优惠👉 [ad_366951](https://t.me/jisou?start=ad_366951)|
+| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [广告优惠](https://t.me/soso?start=usecode_7202424896)|
+| 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，投放广告，享受5%的充值优惠👉 [广告优惠](https://t.me/jisou?start=ad_366951)|
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源    |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，充值优惠👉 [广告优惠](https://t.me/kuai?start=ad_3B44YPB)|
 | JISO  | [@jiso](https://t.me/jiso?start=a_6294881820)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
