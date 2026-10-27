@@ -7,7 +7,7 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [广告折扣](https://t.me/SosoCnBot?start=usecode_ad888)|
+| **SOSO 机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [广告折扣](https://t.me/SosoCnBot?start=usecode_ad888)|
 | JISO  | [@jiso](https://t.me/jiso?start=a_6294881820)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 |海搜|[@haisou](https://t.me/haisou?start=a_7202424896)|发送关键词，即可发现频道、群组、视频、音乐、图片、文件与帖子|
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，投放广告，享受5%的充值优惠👉 [广告折扣](https://t.me/jisou?start=ad_366951)|
